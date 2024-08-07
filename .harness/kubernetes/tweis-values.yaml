@@ -1,1 +1,1 @@
-image: tweis/quantum-bank-backend:<+pipeline.sequenceId>
+image: tyweis/quantum-bank-backend:<+pipeline.sequenceId>
